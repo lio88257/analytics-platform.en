@@ -218,14 +218,14 @@ Select the **[!UICONTROL Usage]** tab to access the interface.
 
 For [!UICONTROL Ingested rows]:
 
-* A panel displays the total ingested rows that include all the events data across all the connections updated on every 2nd day of a month. Within the panel: 
+* A panel displays the total ingested rows that include all the events data across all the connections updated on the 2nd day of each month. Within the panel: 
   * a box displays the number of ingested rows for the last month and the change in % (indicated by ▲ or ▼) from the previous month.
   * a line graph displays the ◼︎ [!UICONTROL Monthly ingested rows].<br/>To see a popup that displays the number of monthly ingested rows for a month, hover over any data point in the line graph.
 
 
 For [!UICONTROL Reportable rows]:
 
-* A panel displays total reportable rows that include all the events data across all the connections updated on every 2nd day of a month. Within the panel:
+* A panel displays total reportable rows that include all the events data across all the connections updated on the 2nd day of each month. Within the panel:
   * a box displays the cumulative total number of reportable rows.
   * a box displays the total number of reportable rows for the last month and the change in % (indicated by ▲ or ▼) from the previous month.
   * a line graph displays the ◼︎ [!UICONTROL Monthly reportable rows].<br/>To see a popup that displays the number of cumulative reportable rows for a specific month, hover over any data point in the line graph.
